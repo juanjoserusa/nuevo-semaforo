@@ -1,5 +1,4 @@
 import React, { useState, useEffect} from "react";
-import Traffic from "/workspace/react-hello/src/js/component/Traffic.jsx"
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
 
